@@ -1,0 +1,14 @@
+{
+  "pytorch_fp32": {
+    "mean_ms": 87.09,
+    "p50_ms": 82.9,
+    "p95_ms": 130.95
+  },
+  "onnx_runtime": {
+    "mean_ms": 49.37,
+    "p50_ms": 49.4,
+    "p95_ms": 53.8
+  },
+  "speedup": 1.76,
+  "onnx_size_mb": 255.55
+}
